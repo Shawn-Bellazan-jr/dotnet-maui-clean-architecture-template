@@ -1,0 +1,1 @@
+# dotnet-maui-clean-architecture-template
